@@ -1,0 +1,1164 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alekhya Modadugu",
+      "username": "Alekhya",
+      "email": "alkyyy@gmail.com",
+      "role": "Admin",
+      "password": "Admin@1234",
+      "phone": "7013535412",
+      "website": "elvis.io",
+      "balance": 0,
+      "AadharNo": 560984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalance": 0,
+      "transaction": []
+    },
+    {
+      "id": 2,
+      "name": "Alkyyyy",
+      "username": "M.V.Alekhya",
+      "email": "alkyyy123@gmail.com",
+      "phone": "7013535412 ",
+      "website": "anastasia.net",
+      "role": "User",
+      "password": "Alky@1234",
+      "balance": 0,
+      "AadharNo": 560984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalance": 0,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-02-24T10:46:16.412Z",
+          "amount": "1000"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T13:24:18.375Z",
+          "amount": "2"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T14:03:49.236Z",
+          "amount": "34"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T14:04:29.580Z",
+          "amount": "34"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T14:04:43.100Z",
+          "amount": "34"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T14:06:31.372Z",
+          "amount": "8"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T14:10:34.052Z",
+          "amount": "233"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:53:20.832Z",
+          "amount": "4"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:53:38.378Z",
+          "amount": "8"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T17:53:55.287Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:54:09.493Z",
+          "amount": "34"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:54:27.015Z",
+          "amount": "89"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:55:01.209Z",
+          "amount": ""
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:55:13.912Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:55:41.709Z",
+          "amount": "10"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T17:55:53.850Z",
+          "amount": "10"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:56:21.270Z",
+          "amount": "67"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:57:31.458Z",
+          "amount": "10"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:58:25.190Z",
+          "amount": "20"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:58:43.963Z",
+          "amount": "20"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T17:59:03.689Z",
+          "amount": "43"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T17:59:29.855Z",
+          "amount": "45"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T18:00:39.122Z",
+          "amount": "23"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T18:01:32.894Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T18:03:35.529Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T18:04:47.503Z",
+          "amount": "17"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T18:05:17.477Z",
+          "amount": "2"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T18:12:22.317Z",
+          "amount": "9"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T18:12:22.317Z",
+          "amount": "9"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T18:12:56.055Z",
+          "amount": "1"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T18:12:56.055Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T18:13:37.290Z",
+          "amount": "90"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T18:13:52.287Z",
+          "amount": "2"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T18:14:16.454Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T18:14:39.796Z",
+          "amount": "200"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T18:17:01.005Z",
+          "amount": "8"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T18:17:18.227Z",
+          "amount": "67"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T11:23:46.949Z",
+          "amount": "9000"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T14:06:28.326Z",
+          "amount": "4"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T14:20:01.894Z",
+          "amount": "67"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T14:20:30.370Z",
+          "amount": "67"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T14:20:53.173Z",
+          "amount": "45"
+        },
+        null,
+        null,
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T14:47:08.140Z",
+          "amount": "10"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T14:47:18.849Z",
+          "amount": "23"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-07T14:47:29.668Z",
+          "amount": "10"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T14:47:38.840Z",
+          "amount": "3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Alekhya Modadugu",
+      "username": "Alekhya",
+      "email": "alekhya.modadugu1999@gmail.com",
+      "phone": "8976854362",
+      "website": "conrad.com",
+      "role": "User",
+      "password": "User@1234",
+      "balance": 89999,
+      "AadharNo": 560984823408,
+      "cType": "current Account",
+      "sType": "savings Account",
+      "currentBalance": 23,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T05:47:49.502Z",
+          "amount": "3333"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T05:47:53.564Z",
+          "amount": "3333"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T05:48:59.527Z",
+          "amount": "7888"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T05:55:21.857Z",
+          "amount": "677"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:36:34.465Z",
+          "amount": "666"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T06:41:57.393Z",
+          "amount": ""
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:43:48.657Z",
+          "amount": "5667"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:50:35.240Z",
+          "amount": "566"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:52:51.216Z",
+          "amount": ""
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:53:03.408Z",
+          "amount": "3444"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:53:06.128Z",
+          "amount": "3444"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:53:23.825Z",
+          "amount": "45"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:56:01.256Z",
+          "amount": "789"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:56:04.049Z",
+          "amount": "789"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:56:14.561Z",
+          "amount": "5556"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:56:43.824Z",
+          "amount": "57"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T06:59:49.112Z",
+          "amount": "455"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:00:26.096Z",
+          "amount": ""
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:00:30.807Z",
+          "amount": "899"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:00:47.312Z",
+          "amount": "899"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:02:41.953Z",
+          "amount": "789"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:02:51.408Z",
+          "amount": "890"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:04:38.175Z",
+          "amount": "67"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:04:41.144Z",
+          "amount": "67"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:04:56.271Z",
+          "amount": "55555"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:06:16.759Z",
+          "amount": "67"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:06:26.039Z",
+          "amount": "567"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:07:03.487Z",
+          "amount": "657"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:07:16.815Z",
+          "amount": "678"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:08:12.471Z",
+          "amount": "789"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:16:31.680Z",
+          "amount": "12"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:17:32.103Z",
+          "amount": "56"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:17:44.782Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:31:10.142Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:31:13.831Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:31:16.134Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:31:24.558Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:31:30.759Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:32:18.471Z",
+          "amount": "2"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:32:34.758Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:33:57.070Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:34:34.270Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:34:36.702Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:50:48.781Z",
+          "amount": "6"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:50:59.205Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:52:55.061Z",
+          "amount": "56"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:53:03.877Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:53:16.565Z",
+          "amount": "34"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T07:54:34.397Z",
+          "amount": "44"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:56:30.460Z",
+          "amount": "45"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T07:58:13.212Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T08:00:48.437Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T08:18:02.140Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T09:52:42.730Z",
+          "amount": "7"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T09:52:52.616Z",
+          "amount": "7"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T09:55:25.036Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T09:57:18.410Z",
+          "amount": "3"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T09:58:00.177Z",
+          "amount": ""
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T09:58:34.185Z",
+          "amount": "45"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T09:58:45.593Z",
+          "amount": "45"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T09:59:03.009Z",
+          "amount": "14"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T09:59:37.001Z",
+          "amount": "10"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T09:59:53.266Z",
+          "amount": "100"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:37:20.497Z",
+          "amount": "4"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:46:25.512Z",
+          "amount": ""
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T10:49:46.510Z",
+          "amount": "78"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:50:45.573Z",
+          "amount": "345"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:50:48.421Z",
+          "amount": "345"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:50:56.237Z",
+          "amount": "2"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:50:56.237Z",
+          "amount": "2"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:51:07.837Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:51:07.837Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:51:14.508Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:51:14.508Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:51:23.773Z",
+          "amount": "2"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:51:23.773Z",
+          "amount": "2"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:53:02.344Z",
+          "amount": "2"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T10:53:22.832Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T10:56:55.580Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T10:56:55.580Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T11:05:42.568Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T11:06:13.385Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T11:06:20.928Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T11:06:28.364Z",
+          "amount": "2"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-05T11:06:34.630Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T11:15:52.019Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T11:15:59.029Z",
+          "amount": "7"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T11:16:06.651Z",
+          "amount": "2"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T13:21:56.647Z",
+          "amount": "2"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-05T13:22:03.910Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T10:25:30.161Z",
+          "amount": "2"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-07T11:18:39.846Z",
+          "amount": "3"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T11:19:17.546Z",
+          "amount": "45"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T11:19:45.109Z",
+          "amount": "45"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T11:19:45.258Z",
+          "amount": "45"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T15:09:37.643Z",
+          "amount": ""
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-07T15:14:12.290Z",
+          "amount": "89999"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T15:19:45.578Z",
+          "amount": ""
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T15:21:27.858Z",
+          "amount": "1788"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T15:21:35.986Z",
+          "amount": "1234"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-08T10:44:32.725Z",
+          "amount": "34"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-08T10:45:20.639Z",
+          "amount": "23"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-08T10:45:42.549Z",
+          "amount": "1"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-13T08:28:28.506Z",
+          "amount": "1"
+        }
+      ],
+      "currentbalance": 0
+    },
+    {
+      "name": "Warner",
+      "username": "David",
+      "email": "david@gmail.com",
+      "phone": "6786874687",
+      "website": " ",
+      "AadharNo": "3499198866666",
+      "balance": 101100,
+      "password": "David@1234",
+      "currentBalance": 5001,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-02-24T11:26:32.946Z",
+          "amount": "5000"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-02-24T11:27:15.046Z",
+          "amount": "100000"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T05:15:19.512Z",
+          "amount": "100"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T05:15:30.232Z",
+          "amount": "65"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T10:27:04.057Z",
+          "amount": "3"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T15:42:15.688Z",
+          "amount": "5"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-07T15:42:25.520Z",
+          "amount": "1234"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-07T15:42:38.623Z",
+          "amount": "3"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T11:43:36.799Z",
+          "amount": "1"
+        },
+        {
+          "type": "Debit",
+          "accountType": "Savings",
+          "dateTime": "2021-04-13T12:17:05.037Z",
+          "amount": "64"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T12:42:41.707Z",
+          "amount": "1"
+        },
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T12:43:51.842Z",
+          "amount": "1"
+        }
+      ],
+      "role": "User",
+      "id": 7
+    },
+    {
+      "name": "Alekhya Modadugu",
+      "username": "alkyy5",
+      "email": "alekhya.modadugu1999@gmail.com",
+      "phone": "3333344",
+      "website": " ",
+      "AadharNo": "333333333333333333333333333",
+      "password": "User@1234",
+      "transaction": [],
+      "role": "user",
+      "id": 8
+    },
+    {
+      "name": "Alekhya Modadugu",
+      "username": "alkyy56",
+      "email": "alekhya.modadugu1999@gmail.com",
+      "phone": " 6789000",
+      "role": "User",
+      "password": "Alky@1234",
+      "cType": "current Account",
+      "sType": "savings Account",
+      "AdharNo": " 677990",
+      "transaction": [],
+      "id": 22
+    },
+    {
+      "name": "rohit",
+      "username": "RohitSharma",
+      "email": "sharma123@gmail.com",
+      "password": "Sharma@1234",
+      "phone": "7891234556",
+      "AdharNo": "677990",
+      "role": "User",
+      "balance": 0,
+      "currentBalance": 0,
+      "transaction": [],
+      "id": 23
+    },
+    {
+      "name": "kane",
+      "username": "kaneWiliamson",
+      "email": "son123@gmail.com",
+      "password": "Son@1234",
+      "phone": "6789000",
+      "AadharNo": "567677",
+      "role": "User",
+      "cType": "Current Account",
+      "sType": "Savings Account",
+      "balance": 0,
+      "currentBalance": 0,
+      "transaction": [],
+      "id": 24
+    },
+    {
+      "name": " Mahiii",
+      "username": " Alekhya",
+      "email": "shake123@gmail.com",
+      "password": "Shake@1234",
+      "phone": " 6789000",
+      "AadharNo": " 567677",
+      "role": "User",
+      "cType": "Current Account",
+      "sType": "Savings Account",
+      "balance": 0,
+      "currentBalance": 0,
+      "transaction": [],
+      "id": 25
+    },
+    {
+      "name": "Alekhya Modadugu",
+      "username": "alkyy",
+      "email": "alekhya.modadugu199@gmail.com",
+      "password": "Amy@1234",
+      "phone": " 6789000",
+      "AadharNo": " 567677",
+      "role": "User",
+      "cType": "Current Account",
+      "sType": "Savings Account",
+      "balance": 0,
+      "currentBalance": 0,
+      "transaction": [],
+      "id": 26
+    },
+    {
+      "name": "Pinku",
+      "username": "pinky",
+      "email": "pinky123@gmail.com",
+      "password": "Pinky@1234",
+      "phone": "7891234556",
+      "AadharNo": " 567677",
+      "role": "User",
+      "cType": "Current Account",
+      "sType": "Savings Account",
+      "balance": 0,
+      "currentBalance": 2,
+      "transaction": [
+        {
+          "type": "Credit",
+          "accountType": "Current",
+          "dateTime": "2021-04-13T12:26:26.149Z",
+          "amount": "2"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "name": "Alekhya Modadugu",
+      "username": "alkyy",
+      "email": "alekhya.modadugu1999@gmail.com",
+      "password": "iugiluglu",
+      "phone": "7891234556",
+      "AadharNo": " 567677",
+      "role": "User",
+      "cType": "Current Account",
+      "sType": "Savings Account",
+      "balance": 0,
+      "currentBalance": 0,
+      "transaction": [],
+      "id": 28
+    }
+  ]
+}

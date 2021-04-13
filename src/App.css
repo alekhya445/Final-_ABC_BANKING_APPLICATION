@@ -1,0 +1,131 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* .viewuserpage{
+  background-color: aqua;
+  
+
+} */
+.display-4{
+  background-color: pink;
+}
+#list-group w-50{
+  background-color: turquoise;
+}
+#list-group w-50{
+  background-color: teal;
+}
+.bankintro{
+  background-image: -moz-repeating-linear-gradient("https://image.freepik.com/free-vector/books-store-library-emblem-read-more-banner_53562-5727.jpg");
+}
+/* *{
+   background-color:cadetblue;
+} */
+h3{
+  font-family: fantasy;
+  background-color: rgb(255, 127, 155);
+}
+.bankintro{
+ 
+ background-image: linear-gradient(blue,pink); 
+}
+h1{
+  font-family:cursive;
+}
+.navbar navbar-expand-lg navbar-dark bg-dark fixed-top{
+  background-color: lightcoral;
+}
+.loginpage{
+  background-image: linear-gradient(blue,pink);
+}
+h2{
+  font-family: fantasy;
+}
+.signupapage{
+  background-image: linear-gradient(blue,pink);
+
+}
+.navpage{
+  background-image: linear-gradient(blue,pink);
+}
+.viwe1page{
+  background-image: linear-gradient(blue,pink);
+
+}
+.adminpage{
+  background-image: linear-gradient(blue,pink,aqua);
+
+}
+.editpage{
+  background-image: linear-gradient(blue,pink);
+
+
+}
+.adduserpage{
+  background-image: linear-gradient(blue,pink);
+
+}
+.viewuserpage{
+  background-image: linear-gradient(blue,pink);
+
+}
+.list-group w-50{
+  background-color: burlywood;
+}
+.currentadd{
+  background-image: linear-gradient(pink,blue);
+
+}
+.currentdel{
+  background-image: linear-gradient(pink,blue);
+
+}
+.addamount{
+  background-image: linear-gradient(pink,blue);
+
+}
+.delamount{
+  background-image: linear-gradient(pink,blue);
+
+}
+.ministatement{
+  background-image: linear-gradient(pink,blue);
+
+
+}
+  
