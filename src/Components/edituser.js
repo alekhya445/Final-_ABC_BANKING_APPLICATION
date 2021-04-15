@@ -32,7 +32,7 @@ const Edituser = () => {
     const onSubmit = async e => {
         e.preventDefault();
         await axios.put(`http://localhost:3000/users/${id}`, user);
-        history.push('/adminaxios');
+        history.push('/adminpage');
 
     }
 
