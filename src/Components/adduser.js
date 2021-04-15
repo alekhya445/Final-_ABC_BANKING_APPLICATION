@@ -34,7 +34,7 @@ const Adduser = () => {
     const onSubmit = async e => {
         e.preventDefault();
         await axios.post("http://localhost:3000/users", user);
-        history.push('/adminaxios')
+        history.push('/adminpage')
 
     }
     return (
