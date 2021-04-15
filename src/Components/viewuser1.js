@@ -50,7 +50,7 @@ const Viewuser1 = () => {
 
 
                                 <br />
-                                <Link className="btn btn-primary" to="/adminaxios">Back to AdminPage</Link>
+                                <Link className="btn btn-primary" to="/adminpage">Back to AdminPage</Link>
                                 <br></br>
                                 <br></br>
                                
